@@ -1,5 +1,6 @@
 # Binaries
 tcp_receive
+tcp_send_receive
 
 # macOS
 .DS_Store
