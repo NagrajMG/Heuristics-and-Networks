@@ -1,1 +1,13 @@
-tcp_receive 
+# Binaries
+tcp_receive
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
